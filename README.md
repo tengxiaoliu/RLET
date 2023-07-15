@@ -80,7 +80,7 @@ bash scripts/run_rl_task23.sh
 ### Evaluation
 
 To evaluate the model, change the `--policy_model_path` to the path of the checkpoint from the RL training stage.
-You can also download the checkpoint from [here]() and put it in the `outputs/examples` folder. Then run the following command:
+You can also download the checkpoint from [here](https://drive.google.com/drive/folders/1hTb5IBYFYom9uOC2WNQATslWVyWuFWIm?usp=sharing) and put it in the `outputs/examples` folder. Then run the following command:
 ```
 # Task 1
 bash scripts/test_rl_task1.sh
